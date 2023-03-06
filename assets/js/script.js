@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 /**
- * The man game "loop", called when the script is first loaded
+ * The main game "loop", called when the script is first loaded
  * and after the user's answers has been processed
  */
 function runGame() {
